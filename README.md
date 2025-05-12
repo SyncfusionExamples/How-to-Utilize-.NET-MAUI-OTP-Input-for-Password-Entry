@@ -2,6 +2,8 @@
 
 This repository contains a detailed sample explaining how to effectively utilize the .NET MAUI OTP Input control specifically for password entry. This approach enhances security by ensuring passwords are not displayed in plain text.
 
+### Troubleshooting path too long exception
+
 If you are facing path too long exception when building this example project, close Visual Studio and rename the repository to short and build the project.
 
 ### Password support in .NET MAUI OtpInput
